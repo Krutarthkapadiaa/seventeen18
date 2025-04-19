@@ -95,8 +95,8 @@ body {
     .card-container {
         display: flex;
         justify-content: center;
-        gap: 120px; /* space between cards */
-        margin: 50px auto; /* space above and below cards */
+        gap: 120px; 
+        margin: 50px auto;
         max-width: 1200px;
         padding: -10px 20px;
         flex-wrap: wrap;
